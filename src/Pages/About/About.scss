@@ -1,0 +1,23 @@
+.aboutME {
+    background-image: url('https://sb-clean-blog.startbootstrap.com/assets/img/about-bg.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    max-width: 100%;
+    height: 100vh;
+    .aboutTxt{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        margin-top: 150px;
+        color: rgb(9, 31, 79);
+        h1{
+            font-size: 70px;
+            font-weight: bold;
+        }
+        p{
+            font-size: 40px;
+            font-style: italic;
+        }
+    }
+}

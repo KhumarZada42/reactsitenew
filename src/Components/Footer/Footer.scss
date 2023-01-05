@@ -1,0 +1,21 @@
+.footerParts{
+    width: 22%;
+    margin: 60px auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    .footerIcons{
+        display: flex;
+        justify-content:space-between;
+        
+        i{
+            font-size: 50px;
+        }
+    }
+    .footerTxt{
+        display: flex;
+        justify-content: center;
+        font-size: 15px;
+        margin-top: 30px;
+    }
+}

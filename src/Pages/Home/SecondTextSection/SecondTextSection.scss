@@ -1,0 +1,92 @@
+.mainTxt {
+    width: 60%;
+    margin: 50px auto;
+
+    .magnaTxt {
+        h2 {
+            font-size: 40px;
+        }
+
+        p {
+            line-height: 60px;
+            font-size: 23px;
+        }
+
+        span {
+            color: gray;
+            font-style: italic;
+            line-height: 30px;
+        }
+
+        &:hover {
+            cursor: pointer;
+
+            h2 {
+                color: rgb(35, 76, 108);
+            }
+
+            p {
+                color: rgb(35, 76, 108);
+            }
+        }
+    }
+
+    .doloreTxt {
+        h2 {
+            font-size: 40px;
+        }
+
+        p {
+            line-height: 60px;
+            font-size: 23px;
+        }
+
+        span {
+            color: gray;
+            font-style: italic;
+            line-height: 30px;
+        }
+
+        &:hover {
+            cursor: pointer;
+
+            h2 {
+                color: rgb(35, 76, 108);
+            }
+
+            p {
+                color: rgb(35, 76, 108);
+            }
+        }
+    }
+
+    .velitTxt {
+        h2 {
+            font-size: 40px;
+        }
+
+        p {
+            line-height: 60px;
+            font-size: 23px;
+        }
+
+        span {
+            color: gray;
+            font-style: italic;
+            line-height: 30px;
+        }
+
+        &:hover {
+            cursor: pointer;
+
+            h2 {
+                color: rgb(35, 76, 108);
+            }
+
+            p {
+                color: rgb(35, 76, 108);
+            }
+        }
+    }
+
+}
